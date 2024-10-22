@@ -45,4 +45,4 @@ Siendo estos colores:
 
 y por ultimo, se pueden eliminar las citas presionando su respectivo boton de eliminar cita.
 
-### Para ver este proyecto, por favor hacer <a href="https://manejo-de-eventos-y-reutilizacion-de-componentes.vercel.app" target="_blank">Click aqui</a>
+### Para ver este proyecto, por favor hacer <a href="https://manejo-de-eventos-y-reutilizacion-de-componentes.vercel.app" target="_blank">click aqui</a>
